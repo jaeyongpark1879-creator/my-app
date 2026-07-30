@@ -1,0 +1,6 @@
+.env
+.env.local
+.env.*.local
+토큰 보관.txt
+trash-can/
+.claude/settings.local.json
